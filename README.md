@@ -1,5 +1,6 @@
 # Mathematical-Modeling-Competition
 数模比赛相关
+目的是为数模比赛收集相关知识储备。
 
 [LaTex模板](https://github.com/Geaming-CHN/Mathematical-Modeling-Competition/tree/main/LaTex)
 
