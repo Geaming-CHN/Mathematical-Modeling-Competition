@@ -1,6 +1,8 @@
 # Mathematical-Modeling-Competition
 概述：数模比赛相关
 
+图床：blogimg/数模/
+
 目的是为数模比赛收集相关知识储备。合作者为水货小组成员。
 
 代码语言为matlab/python
@@ -19,6 +21,10 @@
 | 时间序列模型   | AR、MA、ARMA模型<br />ARCH模型和GARCH模型<br />单位根时间序列 |
 | 预测模型       | 插值预测模型、时间序列预测、灰色预测模型、BP神经网络         |
 | 降维模型       | SVD奇异值分解（主要用于图像处理）<br />主成成分分析<br />因子分析 |
+
+# 评价类模型
+
+层次分析法
 
 [LaTex模板](https://github.com/Geaming-CHN/Mathematical-Modeling-Competition/tree/main/LaTex)
 
